@@ -1,6 +1,6 @@
-# Spark Camp training materials.
+# Collaborative Filtering with Spark.
 
-This project holds the resources used for Spark Camp and other related training events. 
+This fork holds the data used for a Spark example using collaborative filtering to rate movies. 
 The contents are as follows:
 
  * website - the jekyll-based website material hosted for training events
